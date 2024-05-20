@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.associations": {
+        "web_socket_controller": "c"
+    }
+}
